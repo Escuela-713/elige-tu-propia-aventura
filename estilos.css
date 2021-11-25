@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+h1 {
+  color: rgb(162, 162, 255);
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 75px;
+  margin: 2%;
+  font-weight: 1;
+  border-radius: 5px;
+}
+
+.historia {
+
+  margin-left: 19%;
+  margin-right: 19%;
+  background-color: whitesmoke;
+  font-weight: lighter;
+  border-radius: 25px;
+  background-position-y: 100000px;
+}
+p {
+  margin: 5%;
+}
+
+body {
+  background-image: url("img/stone_wall.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+  text-align: center;
+  background-color: black;
+  color: rgb(162, 162, 255);
+  text-decoration: none;
+  display: inline-block;
+  margin: 5px;
+  border-style: solid;
+  padding: 1%;
+  border-radius: 15px;
+}
+a:hover {
+  border-style: solid;
+  background-color: rgb(105, 105, 105);
+}
+nav {
+  margin: auto;
+  text-align: center;
+}
+img {
+  margin: 1%;
+  border-radius: 25px;
+  border-color: black;
+  border-width: 100px;
+  width: 98%; 
+  
+}
+footer {
+  text-align: center;
+  margin: 0px;
+  color: rgb(162, 162, 255);
+  font-weight: lighter;
+}
+.final_malo {
+  color: red;
+}
+.final_bueno {
+  color: green;
+}
+.botones {
+  background-image: url("img/piedra.jpg");
+  border-width: 0px;
+  color: black;
+  border-radius: 5px;
+  font-size: 50px;
+
+}
+.botones:hover {
+  background-image: url("img/piedra.jpg");
+}
